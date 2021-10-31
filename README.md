@@ -16,6 +16,13 @@ I have chosen to program in C++ for this project because it allows more involvem
 
 <br></br>
 
+# Command for Compiling 
+g++ -o {name_of_the_exe_file} {src_code_file.cpp}
+
+ex) g++ -o first_case first_case.cpp
+
+<br></br>
+
 # Diagrams & Outputs of First and Second Case
 
 ![Alt text](images/first_case.png)
